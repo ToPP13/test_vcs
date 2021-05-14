@@ -7,14 +7,14 @@
     },
     RoughRider: 
     {
-       attack bonus on foreign continent: 5
+       attack bonus on foreign continent: 5,
        defense bonus on home continent: 5 
     },
     Bull Moose
     {
-      Science for breathtaking tiles: 1
-      Science for breathtaking tiles: 2 after astrology
-      Culture for breathtaking tiles: 1
+      Science for breathtaking tiles: 1,
+      Science for breathtaking tiles: 2 after astrology,
+      Culture for breathtaking tiles: 1,
       Culture for breathtaking tiles: 2 after enlightenment
     }
   }
