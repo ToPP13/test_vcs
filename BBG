@@ -1,5 +1,25 @@
-America:
-Film studio toursim bonus reduced to +50% (from +100%)
+{
+  America:
+  {
+    Film studio:
+    {
+        toursim bonus: 50%
+    },
+    RoughRider: 
+    {
+       attack bonus on foreign continent: 5
+       defense bonus on home continent: 5 
+    },
+    Bull Moose
+    {
+      Science for breathtaking tiles: 1
+      Science for breathtaking tiles: 2 after astrology
+      Culture for breathtaking tiles: 1
+      Culture for breathtaking tiles: 2 after enlightenment
+    }
+  }
+}
+
 [RoughRider persona / Non-NFP]
 Combat bonus replaced by +5 on attack on foreign continent and +5 defense on home continent
 The RoughRider unit is now a Cavalery replacement, combat strengh adjusted to 62.
