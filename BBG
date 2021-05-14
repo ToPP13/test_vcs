@@ -8,7 +8,9 @@
     RoughRider: 
     {
        attack bonus on foreign continent: 5,
-       defense bonus on home continent: 5 
+       defense bonus on home continent: 5,
+       replacement: Cavalery,
+       combat strengh: 62
     },
     Bull Moose
     {
